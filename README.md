@@ -21,6 +21,12 @@ This project implements a **client-server calculator**. The **client** sends a m
 
 - **Order of Operations**: The server respects the **order of operations** (BIDMAS/BODMAS rules) and handles the **use of parentheses** `()` to alter the calculation order.
 
+## Watch the Calculator in Action!
+
+### Check out the demo video below to see how the client-server calculator works, including all basic and advanced functions.
+
+[![Watch the video](https://img.youtube.com/vi/ywydyklG1fY/0.jpg)](https://youtu.be/ywydyklG1fY)
+
 ## Project Setup
 
 ### How to Edit and Run the Code
@@ -36,6 +42,7 @@ If you'd like to work locally using your preferred IDE, you can clone the reposi
 
 #### Steps to Get Started
 
+```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
 
